@@ -1,0 +1,24 @@
+stock_id,product_id,quantity,status
+1,1001,10,In
+2,1002,5,Stoc limitat
+3,1003,0,Stoc epuizat
+4,1004,30,In stoc
+5,1005,22,In stoc
+6,1006,15,In stoc
+7,1007,8,In stoc
+8,2001,9,In stoc
+9,2002,9,In stoc
+10,2003,10,In stoc
+11,2004,10,In stoc
+12,2005,26,In stoc
+13,3001,17,In stoc
+14,3002,20,In stoc
+15,3003,2,Stoc limitat
+16,3004,3,Stoc limitat
+17,3005,6,In stoc
+18,4001,26,In stoc
+19,4002,23,In stoc
+20,4003,2,Stoc limitat
+21,4004,0,Stoc epuizat
+22,5001,33,In stoc
+23,6001,12,In stoc

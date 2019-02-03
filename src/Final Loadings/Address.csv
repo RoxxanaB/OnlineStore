@@ -1,0 +1,17 @@
+address_id,street,number,building,apartament,floor,city,county,country,zip_code
+0,Bd-ul Primaverii,10,,,,Iasi,Iasi,Romania,707022
+1,Gradinari,42,BL. L7,10,2,Bacau,Bacau,Romania ,717031
+2,Iugoslaviei,25,BL. A6,11,1,Sibiu,Sibiu,Romania ,717032
+3,Decebal,3,BL. B5,12,2,Dorohoi,Botosani,Romania ,717033
+4,Mihai Eminescu,1,BL. C4,13,3,Husi,Vaslui,Romania ,717034
+5,Principala,7,BL. D3,1,0,Iasi,Iasi,Romania ,717035
+6,Rozelor,18,BL. L2,2,0,Darabani,Botosani,Romania ,717036
+7,Castanilor,5,,,,Tulcea,Tulcea,Romania ,717037
+8,Eroilor,22,BL. C2,4,0,Nadlac,Arad,Romania ,717038
+9,Oituz,33,BL. D3,18,3,Mioveni,Arges,Romania ,717039
+10,Muncii,13,,,,Comanesti,Bacau,Romania ,717010
+11,Plopilor,12,BL. F5,20,4,Nucet,Bihor,Romania ,717111
+12,Muncii,24,BL. G6,21,4,Nasaud,Bistrita-Nasaud,Romania ,717212
+13,Crisan,25,,,,Predeal,Brasov,Romania ,717313
+14,Horea,23,BL. L8,23,4,Covasna,Covasna,Romania ,717414
+15,Libertatii,19,BL. K9,24,4,Giurgiu,Giurgiu,Romania ,717515

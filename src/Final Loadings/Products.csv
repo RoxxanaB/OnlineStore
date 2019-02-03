@@ -1,0 +1,24 @@
+product_id,name,brand,price ,color,size,description,category_id,subcategory_id
+1001,Frigider,Beko,1500,gri,60 x 80 x 50 cm,400L,1,101
+1002,Frigider,Arctic,1120,alb,60 x 72 x 50 cm,250L,1,101
+1003,Combina frigorifica,Samsung,2450,alb,65 x 200 x 50 cm,"No Frost,  Clasa A+++",1,102
+1004,Combina frigorifica,Electrolux,3000,inox,60 x 180 x 54 cm,"No Frost,  Clasa A++",1,102
+1005,Congelator,Arctic,1000,alb,60 x 60 x 50 cm,"No Frost,  Clasa A++",1,103
+1006,Side by side,Grundig,3500,inox,120 x 185 x 60 cm,"Low Frost,  Clasa A+",1,105
+1007,Side by side,Hotpoint,16000,gri,120 x 185 x 60 cm,"Low Frost,  Clasa A+",1,105
+2001,Masina de spalat rufe,LG,1750,alb,60 x 70 x 54 cm,"7kg; 1200rpm; Direct Drive,  Clasa A++",2,201
+2002,Masina de spalat rufe,LG,1940,gri,60 x70 x 54 cm,"8kg; Steam,  Clasa A+++",2,201
+2003,Masini de spalat vase,Bosch,1545,gri,60 x 60 x 55 cm,12 Seturi; Multi functional,2,202
+2004,Masini de spalat vase,Whirpool,1200,alb,55 x 60 x 54 cm,6 Seturi,2,202
+2005,Uscator de rufe,Beko,1539,alb,59.7 x 85 x 58.9 cm,"7 kg, 16 Programe, OptiSense, Baby Protect, Clasa B",2,203
+3001,Aragaz,Beko,1549,alb,85.5 x 50 x 60 cm,Pe gaz,3,301
+3002,Cuptor cu microunde,Gorenje,600,negru,60 x 50 cm,Incorporabil,3,302
+3003,Cuptor,Gorenje,1550,negru,60 x 60 x 54,Incorporabil,3,303
+3004,Plita,Gorenje,1200,negru,60 x 60 cm,Incorporabil; Pe gaz; Butoane cu timer,3,304
+3005,Hota,Aeg,1450,gri,60 x 15x 54 cm,Incorporabila; Capacitate aborbtie: 350 - 700 mc/h,3,305
+4001,Blender,Bosch,450,rosu,196 x 237 x 220 mm,800W; 8.3L,4,401
+4002,Robot Bucatarie,Bosch,389,rosu,390 x 240 x 215 mm,"800 W, 35 functii, Vas 1 kg, blender 1.25 l",4,403
+4003,Expresor,Philips,1200,negru,215 x 429 x 330 mm,"1850W, Sistem spumare lapte, Rasnite ceramice, Boiler incalzire rapida, 15 bar, 1.8 l",4,404
+4004,Expresor,Delonghi,500,negru,240 x 270 x 305 mm,"Dispozitiv spumare, Sistem cappuccino, 15 Bar, 1 l, Oprire automata",4,404
+5001,Televizor,Samsung,2500,negru,110 x 80 cm,Full HD,5,502
+6001,Aer Conditionat,Tesla,1499,gri,780 x 276 x 202 mm,"12000 BTU, Functie incalzire, Filtru antibacterian",6,602

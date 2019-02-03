@@ -1,0 +1,24 @@
+subcategory_id,name,category_id
+101,Frigidere,1
+102,Combine Frigorifice,1
+103,Congelatoare,1
+104,Lazi frigorifice,1
+105,Side by side,1
+201,Masini de spalat rufe,2
+202,Masini de spalat vase,2
+203,Uscatoare,2
+301,Aragazuri,3
+302,Cuptoare cu microunde,3
+303,Cuptoare,3
+304,Plite,3
+305,Hote,3
+401,Blendere,4
+402,Tocatoare,4
+403,Roboti Bucatarie,4
+404,Expresoare,4
+405,Sandwichmaker,4
+406,Mixere,4
+501,Televizoare ,5
+502,Televizoare HD,5
+601,Aparate incalzire,6
+602,Aparate aer conditionat,6

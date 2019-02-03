@@ -1,0 +1,24 @@
+customer_id,first_name,last_name,phone,CNP,address_id,status
+1,Popescu,Adrian,0756968369,1394516872536,1,New
+2,Popovici,Matei,0744695369,1394516872536,2,New
+3,Badarau,Ioana,0753694356,1394516872536,3,Active
+4,Carmen,Alexandru Mihai,0726369225,,4,Active
+5,Ruben,Andrei,0722364596,2941213071375,5,Active
+6,Anton,Liviu,0769369852,2941213071375,6,Active
+7,Mihai,Relu,0763986523,,7,Active
+8,Tanase,Gabriela,0726985969,,8,Active
+9,Munteanu,Radu Ioan,0756345698,2941213071375,9,Active
+10,Popescu,Mircea,0763985623,2941213071375,10,Active
+11,Retezat,Bogdan,0763589645,2941213071375,11,Active
+12,Bucur,Catalina Maria,0723654987,,12,Active
+13,Lupu,Carmen,0736945689,2941213071375,13,Active
+14,Enache,Andrei,0763986594,2941213071375,14,Active
+15,Plop,Razvan,0722563569,,15,Retired
+15,Plop,Razvan,0722563569,,15,Retired
+16,67357,Andrei,0763986594,2941213071375,14,Active
+17,Radu,Bgdnxz,0763986594,2941213071375,14,Active
+18,Lupu,jajsahdjashjshakjshdjkdshjksjssadkjhadskjhdjkshaskjhdsjkhagdagshdgyuwgydgagsdhaghdgagdhsag,0763986594,2941213071375,14,Active
+19,Enache,Andrei,563125895,2941213071375,8,Active
+20,Lupu,Andrei,1234,2941213071375,5,Active
+21,Popescu,Andrei,0763986594,2941213000000,9,Active
+22,Popescu,Andrei,0763986594,1234,9,Active
