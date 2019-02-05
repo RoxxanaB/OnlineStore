@@ -28,11 +28,6 @@ public class CsvFile {
             message = "File " + name + " does not exists.";
             return false;
         }
-
-       /* if(name.endsWith(".txt")){
-            convertTxtToCsv(path, name);
-            return true;
-        }*/
         if(!file.getName().endsWith(".csv")){
             message = "Wrong type file. Not a'.csv' file.";
             return false;
@@ -40,53 +35,6 @@ public class CsvFile {
         return true;
     }
 
-    public void convertTxtToCsv(String path, String name) {
-        List<String> output = new ArrayList<>();
-        BufferedWriter writer = null;
-        try(Scanner scanner = new Scanner(file)) {
-            String line = null;
-            while (scanner.hasNextLine()) {
-                line = scanner.nextLine();
-                if(line.contains(",")) {
-                    convertTxtWithCommaToCsv(file.getName());
-                    break;
-                } else {
-                    output.add(line.trim());
-                }
-            }
-            if(output != null) {
-                file = new File(path + name.substring(0,name.lastIndexOf("."))+".csv");
-                writer = new BufferedWriter(new FileWriter(file));
-                for (String s : output) {
-                    writer.write(s);
-                    writer.newLine();
-                }
-            }
-            scanner.close();
-            writer.close();
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
-        } finally {
-            try {
-                if(writer!=null) {
-                    writer.close();
-                }
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-        }
-    }
-
-    public File convertTxtWithCommaToCsv(String name)
-    {
-        File txtFile = new File( name ) ;
-        String csvName = name.substring( 0, name.lastIndexOf( "." ) ) + ".csv" ;
-        File csvFile = new File( csvName ) ;
-        txtFile.renameTo( csvFile ) ;
-        return  csvFile;
-    }
 
     public File getFile() {
         return file;
