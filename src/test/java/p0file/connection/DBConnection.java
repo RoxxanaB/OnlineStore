@@ -12,8 +12,8 @@ public class DBConnection {
 
     static {
         config.setJdbcUrl( "jdbc:mysql://159.69.118.199:3306/wantsome_java" );
-        config.setUsername( "wantsomeJava" );
-        config.setPassword( "r8m4Jb4~" );
+        config.setUsername( "username" );
+        config.setPassword( "password" );
         config.setMaximumPoolSize(2);
         config.addDataSourceProperty( "cachePrepStmts" , "true" );
         config.addDataSourceProperty( "prepStmtCacheSize" , "250" );
